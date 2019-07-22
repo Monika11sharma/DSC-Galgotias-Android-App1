@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DSC-Galgotias-Android-App1</string>
+    <string name="text_in_top">Hey! Its my Birthday... How Dare you forget that.</string>
+    <string name="text_in_top2">Nope! Apologise 10 times...</string>
+    <string name="txt_3">oh... Its ok dear... You need not apologise so many times... </string>
+    <string name="txt_2">Its Okay... But now u better remember it.</string>
+    <string name="Btn1text">Hey! dont react like this. Its not that big deal okay</string>
+    <string name="Btn2text">I am Sorry</string>
+    <string name="Top_text4">Oh yeah? So its neither a big deal in Breaking up... Good bye</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
